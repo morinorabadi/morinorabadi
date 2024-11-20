@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**morinorabadi/morinorabadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Web 3D Fullstack Game Developer** passionate about creating immersive and interactive digital experiences. I specialize in:
 
-Here are some ideas to get you started:
+- Building engaging 3D web applications and games.
+- Developing full-stack solutions for high-performance, real-time systems.
+- Exploring cutting-edge web technologies to bring innovative ideas to life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔭 Currently Learning
+I'm diving into **Golang** to expand my backend development skills and explore its potential in building scalable, efficient systems.
+
+---
+
+### 🛠️ Skills and Expertise
+- **Frontend:** React, Next.js, Three.js
+- **Backend:** Node.js, Express.js ( recreantly Go Fiber  )
+- **3D Graphics:** Three.js Babylon.js, WebGL
+- **Game Development:** Godot , Three.js, Babylon.js
+- **Other Interests:** web 3d Apps, Blockchain, Web3
+---
+
+### 💬 Let's Connect!
+Feel free to reach out if you want to collaborate or share ideas. I'm always open to exciting opportunities in tech and gaming!
+
+---
+✨ Always learning. Always building. Always growing. 🚀
