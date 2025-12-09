@@ -6,17 +6,11 @@ I'm a **Web 3D Fullstack Game Developer** passionate about creating immersive an
 - Developing full-stack solutions for high-performance, real-time systems.
 - Exploring cutting-edge web technologies to bring innovative ideas to life.
 
----
-
-### 🔭 Currently Learning
-I'm diving into **Golang** to expand my backend development skills and explore its potential in building scalable, efficient systems.
-
----
 
 ### 🛠️ Skills and Expertise
 - **Frontend:** React, Next.js, Three.js
-- **Backend:** Node.js, Express.js ( recreantly Go Fiber  )
-- **3D Graphics:** Three.js Babylon.js, WebGL
+- **Backend:** Node.js, Express.js
+- **3D Graphics:** Three.js Babylon.js, WebGL, webgpu
 - **Game Development:** Godot , Three.js, Babylon.js
 - **Other Interests:** web 3d Apps, Blockchain, Web3
 ---
